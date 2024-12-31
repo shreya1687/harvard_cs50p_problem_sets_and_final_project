@@ -1,0 +1,9 @@
+# requirements.txt
+
+# project.py
+inflect
+datetime
+csv
+
+# test_project.py
+pytest

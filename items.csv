@@ -1,0 +1,20 @@
+Item_Id,Item,Category,Quantity,Price
+1,tea_leaves,pantry_essential,1 kg,100
+2,coffee,pantry_essential,1 kg,200
+3,aluminium_foil,pantry_essential,1 l,100
+4,sugar,pantry_essential,1 kg,60
+5,toothpaste,toileteries_cosmetic,1 l,110
+6,shampoo,toileteries_cosmetic,1 l,300
+7,detergent_powder,toileteries_cosmetic,1 kg,250
+8,phenyl,toileteries_cosmetic,1 l,299
+9,wiper,toileteries_cosmetic,1 pc,105
+10,incense_sticks,toileteries_cosmetic,1 pc,90
+11,macroni,food_essentials,1 kg,100
+12,toor_dal,food_essentials,1 kg,200
+13,urad_dal,food_essentials,1 kg,100
+14,moong_dal,food_essentials,1 kg,120
+15,basmati_rice,food_essentials,1 kg,120
+16,cumin_spice,spices,1 kg,99
+17,garam_masala,spices,1 kg,70
+18,almonds,dry_fruits,1 kg,250
+19,cashew_nuts,dry_fruits,1 kg,300
