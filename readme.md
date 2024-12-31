@@ -21,7 +21,7 @@ Start the application: python project.py
 To run the tests: pytest test_project.py
 
 **Tutorial:**
-Welcome to Online Grocery Store... Enjoy your time shopping !																																																																																																																																		
+Welcome to Online Grocery Store... Enjoy your time shopping !																			
 1 ---> Tea_leaves | 1 kg | Rs.100
 2 ---> Coffee | 1 kg | Rs.200
 3 ---> Aluminium_foil | 1 l | Rs.100

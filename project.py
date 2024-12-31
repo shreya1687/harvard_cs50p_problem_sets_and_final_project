@@ -68,7 +68,7 @@ class ShoppingCart:
             # Call to select the menu
             self.select_menu_option(menu_list)
         
-    # Call to ask customer to select the menu item
+    # Call to ask customer to select the menu option
     def select_menu_option(self, menu_list):
         option = 0
         while True:
@@ -112,7 +112,6 @@ class ShoppingCart:
                     item_info[1] += 1
                 else:                          
                     self.shopping_list[select_item] = item_info
-                    print(self.shopping_list)
                 break                    
             except ValueError:
                 print("Invalid option!")
