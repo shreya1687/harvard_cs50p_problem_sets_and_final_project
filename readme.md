@@ -1,3 +1,7 @@
+Title: Online Grocery Store
+Url: https://youtu.be/NWoPIbYyKwM
+
+Description:
 **Online Grocery Store**
 This project implements a simple Online Grocery System that allows users to select the shopping items from a provided list, add or remove the items from their shopping cart, calculate the total bill, and generates an invoice.
 
