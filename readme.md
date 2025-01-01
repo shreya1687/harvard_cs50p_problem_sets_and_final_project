@@ -58,16 +58,16 @@ Select from below...
 Select Menu Option: <enter the option from (1,2,3,4,5)>
 
 If option 1 is selected:
-User is asked to select the item to be added in the shopping cart. Any item from the items list can be selected. User need to provide the relevant number corresponding to each item. If incorrect number is selected, user is asked to select the item again. If incorrect input is added like "toor dal" etc , invalid option is displayed and user is asked to enter the number again.Once the user has added correct number to add the item in the cart, user is prompted with menu again. Same item can be added again and Quantity of the item will be increased.
+User is asked to select the item to be added in the shopping cart. Any item from the items list can be selected. User need to provide the relevant number corresponding to each item. If incorrect number is selected, user is asked to select the item again. If incorrect input is added like "toor dal" etc , invalid option is displayed and user is asked to enter the number again.Once the user has selected the correct number to add the item in the cart, user is prompted with the menu again. Same item can be added again and quantity of the item will be increased.
 
 If option 2 is selected:
-User is asked to select the item to be removed from the shopping cart. Any item from the items list can be selected. User need to provide the relevant number corresponding to each item. If incorrect number is selected, user is asked to select the item again. If incorrect input is added like "toor dal" etc , invalid option is displayed and user is asked to enter the number again.Once the user has added correct number to remove the item in the cart, user is prompted with menu again. If the same item is available more than once i.e. quantity is more than 1, user is prompted if all the items need to be removed (Yes/No). If user selects No, quantity is decreased by one for that specific item. If user selects Yes, the whole item is removed from the shopping cart. 
+User is asked to select the item to be removed from the shopping cart. Any item from the items list can be selected. User need to provide the relevant number corresponding to each item. If incorrect number is selected, user is asked to select the item again. If incorrect input is added like "toor dal" etc , invalid option is displayed and user is asked to enter the number again.Once the user has added correct number to remove the item from the cart, user is prompted with the menu again. If the same item is available more than once i.e. quantity is more than 1, user is prompted if all the items need to be removed (Yes/No). If user selects No, quantity is decreased by one for that specific item. If user selects Yes, the whole item is removed from the shopping cart. 
 
 If option 3 is selected:
 User is displayed with the total cost of the items selected in shopping cart.
 
 If option 4 is selected:
-User is displayed with tdetailed invoce listing the Item ID, Date and time when the invoice is generated, Detail of each item purchased - Item ID, Quantity and Rate. Total bill amount (in figure and words) and Order ID.
+User is displayed with the detailed invoce listing the Item ID, Date and time when the invoice is generated, Detail of each item purchased - Item ID, Quantity and Rate. Total bill amount (in figure and words) and Order ID.
 
 If option 5 is selected, user is exited from the system.
 
